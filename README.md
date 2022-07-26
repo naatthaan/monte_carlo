@@ -1,6 +1,7 @@
 # Using the Monte Carlo Method to find $\pi$ and other quantities
 > Nathan Lee
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/naatthaan/monte_carlo)
 [![Binder](https://mybinder.org/badge_logo.svg)](http://mybinder.org/v2/gh/naatthaan/monte_carlo/main)
 
 In this repository, we will be using the Monte Carlo Method to determine the approximate values of the following:
@@ -13,4 +14,4 @@ The Monte Carlo Method uses repeated random sampling to obtain numerical results
 
 We can also use similar methods to find the volume of a sphere, the circumference of a circle, and the surface area of a sphere. For a very large number of randomly generated points, say, 1,000,000+, the Monte Carlo Method will provide an accurate estimate of these results - the more points there are, the more accurate the estimate will be. We can just use counting to obtain these geometric quantities, rather than using formulas.
 
-To run the notebooks in your web browser, click the 'launch binder' icon above.
+To run the notebooks in your web browser, click the 'Open in Colab' or 'launch binder' icon above.
