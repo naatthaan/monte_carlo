@@ -1,4 +1,4 @@
-# monte_carlo
+# Using the Monte Carlo Method to find $\pi$ and other quantities
 
 In this repository, we will be using the Monte Carlo Method to determine the approximate values for the area of a circle, volume of a sphere, circumference of a circle, and surfacea area of a sphere. The Monte Carlo Method uses repeated random sampling to obtain numerical results, and can be used to estimate the value of $\pi$. Using Python, we can generate random points inside of a square circumscribed by a circle of radius 1. After counting the number of points inside of the circle, we can find the ratio of the number of points inside of the circle and the number of points in total to find an estimated value of $\pi$ (the area of a unit circle). 
 
